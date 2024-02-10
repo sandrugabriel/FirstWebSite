@@ -37,7 +37,7 @@ body {
 #mainNavbar .navbar-brand {
     color: #020941;
     font-style:inherit;
-    font-family: 'Segoe UI Bold', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI Bold', sans-serif;
     font-size: 1.7em;
 }
 
